@@ -1,0 +1,11 @@
+🚀 节点选择`select`[]🇭🇰 香港节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🏁 内测节点`[]🚀 手动切换
+🇭🇰 香港节点`select`[]DIRECT`(港|北方 隧|广州 隧|上海 隧|深圳 隧|佛山 隧)
+🇺🇲 美国节点`select`[]DIRECT`(美国)
+🇨🇳 台湾节点`select`[]DIRECT`(台湾)
+🇯🇵 日本节点`select`[]DIRECT`(日本)
+🇸🇬 狮城节点`select`[]DIRECT`(新加坡)
+🇰🇷 韩国节点`select`[]DIRECT`(韩国)
+🏁 内测节点`select`[]DIRECT`(测试)
+🇨🇳 游戏节点`select`[]🚀 节点选择`(游戏专线)
+Ⓜ️ 微软`select`[]🚀 节点选择`[]DIRECT
+🚀 手动切换`select`[]DIRECT`.*
