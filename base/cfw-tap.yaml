@@ -12,4 +12,8 @@ dns:
     - 223.5.5.5
     - 223.6.6.6
     - 119.29.29.29
+  fake-ip-filter:
+    - 'dns.msftncsi.com'
+    - 'www.msftncsi.com'
+    - 'www.msftconnecttest.com'
 interface-name: WLAN
