@@ -12,8 +12,16 @@ dns:
     - 223.5.5.5
     - 223.6.6.6
     - 119.29.29.29
-  fake-ip-filter:
-    - 'dns.msftncsi.com'
-    - 'www.msftncsi.com'
-    - 'www.msftconnecttest.com'
+    - 180.76.76.76
+    - 1.1.1.1:53
+    - 1.0.0.1:53
+    - 208.67.222.222
+    - 185.222.222.222
+  fallback:
+    - https://162.159.36.1/dns-query
+    - https://162.159.46.1/dns-query
+    - https://1.1.1.1/dns-query
+    - https://1.0.0.1/dns-query
+    - https://139.224.112.177/dns-query
+    - https://162.14.13.12/dns-query
 interface-name: WLAN
