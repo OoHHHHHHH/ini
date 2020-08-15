@@ -1,4 +1,4 @@
 🚀 节点选择`select`[][SS/Socks5]`[][SSR]`[][VMess]
-[SS/Socks5]`select`[]DIRECT`([SS]|[Socks5])
-[SSR]`select`[]DIRECT`([SSR])
-[VMess]`select`[]DIRECT`([VMess])
+[SS/Socks5]`select`[]DIRECT`(SS]|Socks5])
+[SSR]`select`[]DIRECT`(SSR])
+[VMess]`select`[]DIRECT`(VMess])
