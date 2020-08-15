@@ -1,5 +1,5 @@
 🚀 节点选择`select`[]🇨🇳 Socks5`[]🇭🇰 香港节点`[]🇺🇲 美国节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇸🇬 狮城节点`[]🇰🇷 韩国节点`[]🏁 内测节点`[]🚀 手动切换
-🇨🇳 Socks5`select`(Socks5)
+🇨🇳 Socks5`select`(Sock)
 🇭🇰 香港节点`select`[]DIRECT`(港|北方 隧|广州 隧|上海 隧|深圳 隧|佛山 隧)
 🇺🇲 美国节点`select`[]DIRECT`(美国)
 🇨🇳 台湾节点`select`[]DIRECT`(台湾)
