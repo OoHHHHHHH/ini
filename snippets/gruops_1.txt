@@ -2,4 +2,4 @@
 [SS/Socks5]`select`[]DIRECT`(SS]|Socks5])
 [SSR]`select`[]DIRECT`(SSR])
 [VMess]`select`[]DIRECT`(VMess])
-Ⓜ️ 微软`select`[]DIRECT`[]🚀 节点选择
+[微软]`select`[]DIRECT`[]🚀 节点选择
