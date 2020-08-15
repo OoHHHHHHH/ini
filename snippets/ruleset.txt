@@ -1,4 +1,5 @@
 🇨🇳 游戏节点,https://raw.githubusercontent.com/OoHHHHHHH/ini/master/rules/game.list
+;🚀 节点选择,https://raw.githubusercontent.com/OoHHHHHHH/ini/master/rules/game.list
 DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 🚀 节点选择,https://raw.githubusercontent.com/Dashboard2/subpref/master/rules/Telegram.list
 🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
