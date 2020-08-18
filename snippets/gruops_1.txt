@@ -4,7 +4,7 @@
 [SSR2]`select`[]DIRECT`!!GROUPID=4!!(JP)
 [SSR3]`select`[]DIRECT`!!GROUPID=4!!(TW|SGP|US|KR)
 [VMess1]`select`[]DIRECT`!!GROUPID=3!!(隧道)
-[VMess2]`select`[]DIRECT`!!GROUPID=3!!(香港）
-[VMess3]`select`[]DIRECT`!!GROUPID=3!!(日本）
+[VMess2]`select`[]DIRECT`!!GROUPID=3!!(香港)
+[VMess3]`select`[]DIRECT`!!GROUPID=3!!(日本)
 [VMess4]`select`[]DIRECT`!!GROUPID=3!!(新加坡|美国|内部测试)
 [微软]`select`[]🚀 节点选择`[]DIRECT
