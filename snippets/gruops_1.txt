@@ -1,7 +1,10 @@
-🚀 节点选择`select`[][SS&Socks5]`[][SSR1]`[][SSR2]`[][VMess1]`[][VMess2]
+🚀 节点选择`select`[][SS&Socks5]`[][SSR1]`[][SSR2]`[][SSR3]`[][VMess1]`[][VMess2]`[][VMess3]`[][VMess4]
 [SS&Socks5]`select`[]DIRECT`!!GROUPID=0-2
-[SSR1]`select`[]DIRECT`!!GROUPID=4!!INSERT=0-24
-[SSR2]`select`[]DIRECT`!!GROUPID=4!!INSERT=24-50
-[VMess1]`select`[]DIRECT`!!GROUPID=3!!INSERT=0-30
-[VMess2]`select`[]DIRECT`!!GROUPID=3!!INSERT=31-70
+[SSR1]`select`[]DIRECT`!!GROUPID=4!!(HK)
+[SSR2]`select`[]DIRECT`!!GROUPID=4!!(JP)
+[SSR3]`select`[]DIRECT`!!GROUPID=4!!(TW|SGP|US|KR)
+[VMess1]`select`[]DIRECT`!!GROUPID=3!!(隧道)
+[VMess2]`select`[]DIRECT`!!GROUPID=3!!(香港）
+[VMess3]`select`[]DIRECT`!!GROUPID=3!!(日本）
+[VMess4]`select`[]DIRECT`!!GROUPID=3!!(新加坡|美国|内部测试)
 [微软]`select`[]🚀 节点选择`[]DIRECT
