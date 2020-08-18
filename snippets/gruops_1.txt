@@ -1,5 +1,7 @@
-🚀 节点选择`select`[][SS&Socks5]`[][SSR]`[][VMess]
+🚀 节点选择`select`[][SS&Socks5]`[][SSR1]`[][SSR2]`[][VMess1]`[][VMess2]
 [SS&Socks5]`select`[]DIRECT`!!GROUPID=0-2
-[SSR]`select`[]DIRECT`!!GROUPID=3
-[VMess]`select`[]DIRECT`!!GROUPID=4
+[SSR1]`select`[]DIRECT`!!GROUPID=4!!INSERT=0-24
+[SSR2]`select`[]DIRECT`!!GROUPID=4!!INSERT=24-50
+[VMess1]`select`[]DIRECT`!!GROUPID=3!!INSERT=0-30
+[VMess2]`select`[]DIRECT`!!GROUPID=3!!INSERT=31-70
 [微软]`select`[]🚀 节点选择`[]DIRECT
