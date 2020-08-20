@@ -2,7 +2,7 @@
 [Self]`select`[]DIRECT`!!GROUPID=0-2
 [SSR-HK]`select`[]DIRECT`!!GROUPID=4!!(HK)
 [SSR-JP]`select`[]DIRECT`!!GROUPID=4!!(JP)
-[SSR3-TW|SGP|US|KR]`select`[]DIRECT`!!GROUPID=4!!(TW|SGP|US|KR)
+[SSR-TW|SGP|US|KR]`select`[]DIRECT`!!GROUPID=4!!(TW|SGP|US|KR)
 [VMess-HK|TW]`select`[]DIRECT`!!GROUPID=3!!(香港|台湾)
 [VMess-JP]`select`[]DIRECT`!!GROUPID=3!!(日本)
 [VMess-SGP|US]`select`[]DIRECT`!!GROUPID=3!!(新加坡|美国)
