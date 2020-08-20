@@ -1,10 +1,10 @@
-🚀 节点选择`select`[][SS&Socks5]`[][SSR1]`[][SSR2]`[][SSR3]`[][VMess1]`[][VMess2]`[][VMess3]`[][VMess4]
-[SS&Socks5]`select`[]DIRECT`!!GROUPID=0-2
-[SSR1]`select`[]DIRECT`!!GROUPID=4!!(HK)
-[SSR2]`select`[]DIRECT`!!GROUPID=4!!(JP)
-[SSR3]`select`[]DIRECT`!!GROUPID=4!!(TW|SGP|US|KR)
-[VMess1]`select`[]DIRECT`!!GROUPID=3!!(香港)
-[VMess2]`select`[]DIRECT`!!GROUPID=3!!(日本)
-[VMess3]`select`[]DIRECT`!!GROUPID=3!!(新加坡|美国)
-[VMess4]`select`[]DIRECT`!!GROUPID=3!!(测试)
+🚀 节点选择`select`[][Self]`[][SSR-HK]`[][SSR-JP]`[][SSR-TW|SGP|US|KR]`[][VMess-HK|TW]`[][VMess-JP]`[][VMess-SGP|US]`[][VMess-TEST]
+[Self]`select`[]DIRECT`!!GROUPID=0-2
+[SSR1-HK]`select`[]DIRECT`!!GROUPID=4!!(HK)
+[SSR2-JP]`select`[]DIRECT`!!GROUPID=4!!(JP)
+[SSR3-TW|SGP|US|KR]`select`[]DIRECT`!!GROUPID=4!!(TW|SGP|US|KR)
+[VMess1-HK|TW]`select`[]DIRECT`!!GROUPID=3!!(香港|台湾)
+[VMess2-JP]`select`[]DIRECT`!!GROUPID=3!!(日本)
+[VMess3-SGP|US]`select`[]DIRECT`!!GROUPID=3!!(新加坡|美国)
+[VMess4-TEST]`select`[]DIRECT`!!GROUPID=3!!(测试)
 [微软]`select`[]🚀 节点选择`[]DIRECT
