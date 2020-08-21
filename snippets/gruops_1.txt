@@ -1,5 +1,5 @@
 🚀 节点选择`select`[][OHHHHH]`[][SSR-HK]`[][SSR-JP]`[][SSR-TW|SGP|US|KR]`[][VMess-HK|TW]`[][VMess-JP]`[][VMess-SGP|US]
-[OHHHHH]`select`[]DIRECT`!!GROUPID=1!!(测试)`!!GROUPID=2-10
+[OHHHHH]`select`[]DIRECT`!!GROUPID=1!!(测试)`[LB-1]`[LB-2]`[LB-3]
 [SSR-HK]`select`[]DIRECT`!!GROUPID=0!!(HK)
 [SSR-JP]`select`[]DIRECT`!!GROUPID=0!!(JP)
 [SSR-TW|SGP|US|KR]`select`[]DIRECT`!!GROUPID=0!!(TW|SGP|US|KR)
@@ -7,3 +7,6 @@
 [VMess-JP]`select`[]DIRECT`!!GROUPID=1!!(日本)
 [VMess-SGP|US]`select`[]DIRECT`!!GROUPID=1!!(新加坡|美国)
 [微软]`select`[]🚀 节点选择`[]DIRECT
+[LB-1]`load-balance`!!GROUPID=2-3`http://www.gstatic.com/generate_204`300
+[LB-2]`load-balance`!!GROUPID=4-5`http://www.gstatic.com/generate_204`300
+[LB-3]`load-balance`!!GROUPID=6-7`http://www.gstatic.com/generate_204`300
