@@ -1,10 +1,10 @@
 🚀 节点选择`select`[][Self]`[][SSR-HK]`[][SSR-JP]`[][SSR-TW|SGP|US|KR]`[][VMess-HK|TW]`[][VMess-JP]`[][VMess-SGP|US]`[][VMess-TEST]
-[Self]`select`[]DIRECT`!!GROUPID=0-2
-[SSR-HK]`select`[]DIRECT`!!GROUPID=4!!(HK)
-[SSR-JP]`select`[]DIRECT`!!GROUPID=4!!(JP)
-[SSR-TW|SGP|US|KR]`select`[]DIRECT`!!GROUPID=4!!(TW|SGP|US|KR)
-[VMess-HK|TW]`select`[]DIRECT`!!GROUPID=3!!(香港|台湾)
-[VMess-JP]`select`[]DIRECT`!!GROUPID=3!!(日本)
-[VMess-SGP|US]`select`[]DIRECT`!!GROUPID=3!!(新加坡|美国)
-[VMess-TEST]`select`[]DIRECT`!!GROUPID=3!!(测试)
+[Self]`select`[]DIRECT`!!GROUPID=2-10
+[SSR-HK]`select`[]DIRECT`!!GROUPID=0!!(HK)
+[SSR-JP]`select`[]DIRECT`!!GROUPID=0!!(JP)
+[SSR-TW|SGP|US|KR]`select`[]DIRECT`!!GROUPID=0!!(TW|SGP|US|KR)
+[VMess-HK|TW]`select`[]DIRECT`!!GROUPID=1!!(香港|台湾)
+[VMess-JP]`select`[]DIRECT`!!GROUPID=1!!(日本)
+[VMess-SGP|US]`select`[]DIRECT`!!GROUPID=1!!(新加坡|美国)
+[VMess-TEST]`select`[]DIRECT`!!GROUPID=1!!(测试)
 [微软]`select`[]🚀 节点选择`[]DIRECT
