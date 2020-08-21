@@ -1,5 +1,5 @@
 🚀 节点选择`select`[][OHHHHH]`[][SSR-HK]`[][SSR-JP]`[][SSR-TW|SGP|US|KR]`[][VMess-HK|TW]`[][VMess-JP]`[][VMess-SGP|US]
-[OHHHHH]`select`[]DIRECT`!!GROUPID=1!!(测试)`[LB-1]`[LB-2]`[LB-3]
+[OHHHHH]`select`[]DIRECT`!!GROUPID=1!!(测试)`[][LB-1]`[][LB-2]`[][LB-3]
 [SSR-HK]`select`[]DIRECT`!!GROUPID=0!!(HK)
 [SSR-JP]`select`[]DIRECT`!!GROUPID=0!!(JP)
 [SSR-TW|SGP|US|KR]`select`[]DIRECT`!!GROUPID=0!!(TW|SGP|US|KR)
