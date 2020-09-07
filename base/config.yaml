@@ -4,6 +4,7 @@ redir-port: 7892
 allow-lan: true
 mode: rule
 log-level: error
+ipv6: false
 external-controller: 0.0.0.0:9090
 external-ui: yacd-gh-pages
 dns:
@@ -24,5 +25,5 @@ dns:
 tun:
   enable: true
   stack: system
-;  dns-listen: 198.18.0.1:53
-;  device-url: "dev://utun"
+  dns-listen: 198.18.0.1:53
+  device-url: dev://utun
