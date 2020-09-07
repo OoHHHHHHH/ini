@@ -1,1 +1,7 @@
 
+🚀 节点选择`select`[][OHHHHH]`[][SSR]`[][VMess]
+[OHHHHH]`select`[]DIRECT`!!GROUPID=0!!(测试|毛子)`!!GROUPID=1!!(测试|毛子)`!!GROUPID=2-10
+[SSR]`select`[]DIRECT`!!GROUPID=0
+[VMess]`select`[]DIRECT`!!GROUPID=1
+[微软]`select`[]DIRECT`[]🚀 节点选择
+
