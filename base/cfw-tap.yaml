@@ -20,4 +20,5 @@ dns:
     - https://1.0.0.1/dns-query
     - https://139.224.112.177/dns-query
     - https://162.14.13.12/dns-query
-interface-name: WLAN
+#interface-name: 以太网
+#interface-name: WLAN
