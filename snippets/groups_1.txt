@@ -1,6 +1,2 @@
-🚀 节点选择`select`[][OHHHHH]`[][SSR-HK]`[][SSR-JP]`[][SSR-TW|SGP|US|KR]
-[SSR-HK]`select`[]DIRECT`!!GROUPID=0!!(HK|香港)
-[SSR-JP]`select`[]DIRECT`!!GROUPID=0!!(JP|日本)
-[SSR-TW|SGP|US|KR]`select`[]DIRECT`!!GROUPID=0!!(TW|台湾|SGP|新加坡|US|美国|KR|韩国)
+🚀 节点选择`select`[]DIRECT`!!GROUPID=0
 [微软]`select`[]DIRECT`[]🚀 节点选择
-
