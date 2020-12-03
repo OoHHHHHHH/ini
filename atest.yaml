@@ -1,0 +1,33 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+allow-lan: false
+mode: Rule
+log-level: silent
+external-controller: '0.0.0.0:9090'
+secret: ''
+proxies:
+  -
+    name: '1 加入用户群: https://t.me/airkoryo'
+    type: ss
+    server: 127.0.0.1
+    port: 45245
+    cipher: rc4-md5
+    password: rWogZh
+    udp: true
+  -
+    name: '1 备用官网 http://fast.airport-gov-cn.com:39010'
+    type: ss
+    server: 127.0.0.1
+    port: 45245
+    cipher: rc4-md5
+    password: rWogZh
+    udp: true
+  -
+    name: '1认准官网: cnix-gov-cn.com'
+    type: ss
+    server: 127.0.0.1
+    port: 45245
+    cipher: rc4-md5
+    password: rWogZh
+    udp: true
