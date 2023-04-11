@@ -1,5 +1,2 @@
-🚀 节点选择`select`[][SSR]`[][VMess]
-[SSR]`select`[]DIRECT`!!GROUPID=0
-[VMess]`select`[]DIRECT`!!GROUPID=1
+🚀 节点选择`select`[]DIRECT`!!GROUPID=0
 [微软]`select`[]DIRECT`[]🚀 节点选择
-
