@@ -1,4 +1,5 @@
 🚀 节点选择,https://raw.githubusercontent.com/OoHHHHHHH/ini/master/rules/SelfProxy.list
+🚀 节点选择,https://raw.githubusercontent.com/OoHHHHHHH/ini/master/rules/game.list
 [微软],https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list
 [微软],https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/OneDrive.list
 DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
